@@ -111,11 +111,3 @@ src/
 ├── App.jsx            # Composant racine
 └── main.jsx           # Point d'entrée
 ```
-
-## 🔗 Liens utiles
-
-- [API Backend](https://github.com/echarif/moroccan-plate-detection-api)
-- [Documentation de l'API](https://echarif.pythonanywhere.com/api)
-- [React Documentation](https://reactjs.org/)
-- [Vite Documentation](https://vitejs.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/)
